@@ -42,3 +42,5 @@ Monitor the Capacity Usage Meter to ensure the payload is within safe limits.
 Enable Decoy Payload if multi-layer protection is desired.
 Select the appropriate Inject command to execute the PRNG-Scatter algorithm.
 image
+
+![Docker Image](imagestegano.png)
